@@ -1,0 +1,7 @@
+node_modules/
+template/node_modules/
+
+.vscode/
+
+template/ios/Pods
+.DS_Store

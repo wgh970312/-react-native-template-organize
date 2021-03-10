@@ -1,0 +1,25 @@
+{
+  "name": "react-native-template-organize",
+  "version": "0.0.6",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgh970312/react-native-template-organize"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "boilerplate"
+  ],
+  "author": "wgh970312",
+  "license": "MIT",
+  "homepage": "https://github.com/wgh970312/react-native-template-organize/blob/master/README.md"
+}
